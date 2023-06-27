@@ -1,0 +1,16 @@
+#nav{
+    display: flex;
+}
+#nav *{
+    margin-right: 20px;
+    align-self: center;
+}
+.nav-logo{
+    width: 5em;
+}
+.nav-button{
+    height: 50px;
+}
+
+
+
