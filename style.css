@@ -1,0 +1,15 @@
+.flex{
+    display:flex;
+}
+
+.third{
+    width: 800px;
+}
+
+.third > div{
+    width: 33%;
+}
+
+img{
+    width: 100%;
+}
