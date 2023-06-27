@@ -1,3 +1,4 @@
+
 footer{
     background-color: black;
     color: white;
@@ -15,3 +16,34 @@ h1{
     margin-top:20px
     
 }
+
+#nav{
+    display: flex;
+}
+#nav *{
+    margin-right: 20px;
+    align-self: center;
+}
+.nav-logo{
+    width: 5em;
+}
+.nav-button{
+    height: 50px;
+}
+
+.flex{
+    display:flex;
+}
+
+.third{
+    width: 800px;
+}
+
+.third > div{
+    width: 33%;
+}
+
+img{
+    width: 100%;
+}
+
