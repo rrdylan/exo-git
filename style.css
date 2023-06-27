@@ -1,3 +1,22 @@
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+button{
+    padding: 500px, 50px;
+    background-color: #af4c4c;
+    color: white;
+    cursor: pointer;
+}
+
+h1{
+    margin-top:20px
+    
+}
+
 #nav{
     display: flex;
 }
